@@ -1,0 +1,1 @@
+{"cat": "N", "dog": "N", "I": "NP", "('V','NP')": "VP", "telescope": "N", "('DET','N')": "NP", "park": "N", "('P','NP')": "PP", "pig": "N", "('NP','PP')": "NP", "in": "P", "with": "P", "roof": "N", "hill": "N", "on": "P", "from": "P", "the": "DET", "('NP','VP')": "S", "('VP','PP')": "VP", "saw": "V", "man": "N"}
